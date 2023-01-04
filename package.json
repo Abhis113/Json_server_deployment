@@ -1,0 +1,27 @@
+{
+  "name": "Json_server_deployment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+
+  "scripts": {
+    "start": "node index.js"
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abhis113/Json_server_deployment.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Abhis113/Json_server_deployment/issues"
+  },
+  "homepage": "https://github.com/Abhis113/Json_server_deployment#readme",
+  "dependencies": {
+
+    "json-server": "^0.17.1"
+  }
+}
